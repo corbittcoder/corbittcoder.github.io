@@ -1,0 +1,44 @@
+.masthead-avatar {
+  width: 15rem;
+  padding-bottom: 0 !important;
+  padding-top: 5rem;
+  vertical-align: bottom !important;
+  display: block !important;
+  line-height: 0 !important;
+  font-size: 0 !important
+}
+
+
+.align-items-center {
+  -webkit-box-align: center !important;
+  -ms-flex-align: center !important;
+  align-items: center !important;
+}
+
+.site-heading {
+  padding: 0px 0 150px !important;
+}
+
+.page-heading {
+  padding: 0px 0 150px !important;
+}
+/*
+
+.divider-custom {
+  padding-bottom: 0 !important;
+  line-height: 0 !important;
+}
+*/
+
+@media (max-width: 768px) {
+  nav.navbar {
+    background: purple !important;
+  }
+}
+
+.navbar-nav > li > .dropdown-menu { background-color: red !important; }
+
+#portfolio {
+  padding-top: 0;
+  padding-bottom: 0;
+}
