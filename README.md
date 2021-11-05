@@ -1,1 +1,1 @@
-My blog and website
+My website
